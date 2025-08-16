@@ -1,7 +1,19 @@
 # self-hosted-chatgpt
 Self Hosted ChatGPT
 
+- Contained in A Single Docker Compose file
+
 ![Screenshot](.images/image.png)
+
+
+---
+
+## Features
+
+- AI Chat
+- Real Time Internet Search
+- Knowledge Lookup using RAG
+
 
 ## Installation
 
@@ -25,8 +37,9 @@ docker compose up -d
 
 ---
 
-### Credits
+### License
 
+MIT License, Built with: 
 - Docker
 - Ollama
 - OpenWebUI
